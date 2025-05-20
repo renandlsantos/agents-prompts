@@ -25,7 +25,7 @@ criar seu primeiro sistema combinando LLMs moderna, Python e RAG para alimentar 
 ![Curso Gratuito de IA](curso-ia.png)
 
 <div align="center">
-  <a href="https://asimov.academy/curso-gratuito-ia/" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px; font-weight: bold;">
+  <a href="https://asimov.academy/curso-gratuito-ia/" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; margin: 4px 2px; cursor: pointer; border-radius: 4px; font-weight: bold;">
     🚀 QUERO CRIAR MEUS PRÓPRIOS AGENTES DE IA - CURSO GRATUITO 🤖
   </a>
 </div>

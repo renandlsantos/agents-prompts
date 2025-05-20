@@ -22,7 +22,9 @@ Estude-os e aprimore seus próprios agentes a partir disto.
 Se você deseja aprender a criar seus próprios agentes, preparamos um curso gratuito onde, em menos de 4h, você conseguirá
 criar seu primeiro sistema combinando LLMs moderna, Python e RAG para alimentar seu modelo com dados proprietários.
 
+![Curso Gratuito de IA](curso-ia.png)
 Cadastre-se em: https://asimov.academy/curso-gratuito-ia/
+
 
 
 

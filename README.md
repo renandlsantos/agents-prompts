@@ -22,10 +22,10 @@ Estude-os e aprimore seus próprios agentes a partir disto.
 Se você quer sair do básico e começar a construir seus próprios agentes inteligentes, temos um curso gratuito que vai te guiar passo a passo.
 Em menos de 5 horas, você vai aprender a criar um chatbot de IA capaz de analisar diferentes tipos de dados, como PDFs, sites e vídeos do YouTube, tornando seus agentes muito mais úteis e contextuais.
 No curso você vai dominar:
-- Fundamentos do Python: conheça conceitos essenciais como strings, variáveis, loops e funções, mesmo que esteja começando do zero absoluto;
-- Criação de chatbots funcionais e interativos: desenvolva um bot que responde perguntas usando os modelos de linguagem mais avançados;
-- Uso prático da biblioteca LangChain: aprenda a trabalhar com essa ferramenta popular no ecossistema de IA para acessar modelos como Llama 3;
-- Integração de dados diversos: descubra como seu agente pode acessar e processar informações de sites, PDFs e vídeos para fornecer respostas mais completas e relevantes.
+- **Fundamentos do Python:** conheça conceitos essenciais como strings, variáveis, loops e funções, mesmo que esteja começando do zero absoluto;
+- **Criação de chatbots funcionais e interativos:** desenvolva um bot que responde perguntas usando os modelos de linguagem mais avançados;
+- **Uso prático da biblioteca LangChain:** aprenda a trabalhar com essa ferramenta popular no ecossistema de IA para acessar modelos como Llama 3;
+- **Integração de dados diversos:** descubra como seu agente pode acessar e processar informações de sites, PDFs e vídeos para fornecer respostas mais completas e relevantes.
 
 Este curso foi pensado para quem quer criar soluções reais em IA, passo a passo, com foco em desenvolvimento prático.
 
